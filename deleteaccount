@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Delete Account - Atomic Calories</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 20px;
+      line-height: 1.6;
+    }
+    h1 {
+      color: #333;
+    }
+    a {
+      color: #007BFF;
+    }
+  </style>
+</head>
+<body>
+  <h1>Delete Your Account - Atomic Calories</h1>
+
+  <p>
+    If you wish to delete your account and all related data from the <strong>Atomic Calories</strong> app, please follow the steps below.
+  </p>
+
+  <h2>How to Request Account Deletion</h2>
+  <p>
+    Send an email to <a href="mailto:your-email@example.com">yourturnai@gmail.com</a> with the subject line: <strong>“Delete My Account”</strong>.
+  </p>
+  <p>
+    In your message, please include the email address you used to register in the app.
+  </p>
+  <p>
+    Your request will be processed within <strong>7 business days</strong>, and all associated data will be permanently deleted.
+  </p>
+
+  <h2>Data That Will Be Deleted</h2>
+  <ul>
+    <li>Account information (email, profile details)</li>
+    <li>Personal usage history and logs</li>
+    <li>Any messages or inputs provided within the app</li>
+  </ul>
+
+  <h2>Data That May Be Retained (If Applicable)</h2>
+  <ul>
+    <li>Payment records or transaction data (stored securely, for legal compliance, retained up to 12 months)</li>
+  </ul>
+
+  <h2>Additional Information</h2>
+  <p>
+    If you no longer use Atomic Calories, you can also remove the app from your device. For full data removal, please request deletion as described above.
+  </p>
+</body>
+</html>
